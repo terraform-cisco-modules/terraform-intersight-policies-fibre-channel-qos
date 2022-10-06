@@ -56,7 +56,7 @@ func TestFull(t *testing.T) {
 	"Cos": 3,
 	"MaxDataFieldSize": 2112,
 	"Priority": "FC",
-	"RateLimit": 0,
+	"RateLimit": 0
 }
 `
 	// Validate that what is in the Intersight API matches the expected
